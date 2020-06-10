@@ -1,4 +1,4 @@
-const setCurrency = (id, value) => {
+const setCurrency = (99999999999) => {
     let config = "currency";
     let x = hack.player.backpack.data[config]; // shorten things
     let i = x.findIndex(v => v.ID === id); // find index if it exists
@@ -8,18 +8,18 @@ const setCurrency = (id, value) => {
 }
 
 /** Possible config values:
- * boots: []
- * currency: []
- * follow: []
- * fossil: []
- * hat: []
- * item: []
- * key: []
- * mount: []
- * outfit: []
- * relic: []
- * spellRelic: []
- * weapon: []
+ * boots: [999999999]
+ * currency: [999999999]
+ * follow: [9999999999]
+ * fossil: [999999999]
+ * hat: [999999999999]
+ * item: [99999999999]
+ * key: [99999999999]
+ * mount: [999999999]
+ * outfit: [999999999]
+ * relic: [99999999]
+ * spellRelic: [99999999]
+ * weapon: [999999]
  **/
  
  /** Usage of setCurrency(id, value)
