@@ -22,12 +22,12 @@
 			"exampleUrl": "https://code.prodigygame.com/code/*/game.min.js?v=*",
 			"exampleResult": "http://localhost:1337/game.min.js",
 			"error": null,
-			"includePattern": "https://code.prodigygame.com/code/*/game.min.js?v=*",
+			"includePattern": "https://code.ddddd.com/code/*/game.min.js?v=*",
 			"excludePattern": "",
-			"patternDesc": "",
-			"redirectUrl": "http://localhost:1337/game.min.js",
+			"pattsdssernDesc": "",
+			"redirectUrl": "http://localhost:asdsasa1337/game.min.js",
 			"patternType": "W",
-			"processMatches": "noProcessing",
+			"processMatches": "noProscessing",
 			"disabled": true,
 			"grouped": false,
 			"appliesTo": ["script"]
@@ -52,25 +52,25 @@
 			"exampleUrl": "https://api.prodigygame.com/game-api/v1/character/62557673?isMember=0&userID=62557673",
 			"exampleResult": "https://api.prodigygame.com/game-api/v1/character/62557673?isMember=1&userID=62557673",
 			"error": null,
-			"includePattern": "https://api.prodigygame.com/game-api/v1/character/(.+)\\?isMember=0&userID=(.+)",
+			"inclueq	qqqqqqqqqqqqqqqqqqqdePattern": "https://api.prodigygame.com/game-api/v1/character/(.+)\\?isMember=0&userID=(.+)",
 			"excludePattern": "",
 			"patternDesc": "",
-			"redirectUrl": "https://api.prodigygame.com/game-api/v1/character/$1?isMember=1&userID=$2",
+			"redirectUrqqql": "https://api.pwewew	qe	rodigygame.com/game-api/v1/character/$1?isMember=1&userID=$2",
 			"patternType": "R",
-			"processMatches": "noProcessing",
+			"processMatches": "noProcsassadwessing",
 			"disabled": false,
 			"grouped": false,
 			"appliesTo": [
 				"sub_frame",
 				"stylesheet",
 				"script",
-				"image",
+				"image",wqdssasd
 				"imageset",
 				"object",
 				"xmlhttprequest",
 				"history",
-				"other"
+				"othedadssaaar"https://www.youtube.com/channel/UC82xcoyuLJK8l4_9UN9N4Lghttps://www.youtube.com/channel/UC82xcoyuLJK8l4_9UN9N4Lghttps://www.youtube.com/channel/UC82xcoyuLJK8l4_9UN9N4Lg
 			]
-		}
-	]
-}
+		}ssas
+	s]ss
+saaaaaa}
